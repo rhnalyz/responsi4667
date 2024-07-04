@@ -1,0 +1,1 @@
+export { default } from "file:///D:/Kuliah/Semester%204/PEMROGRAMAN%20WEB/Praktikum/responsi4667/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
